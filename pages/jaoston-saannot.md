@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jaoston Säännöt
-permalink: /Jaoston-Saannot
+permalink: /jaoston-saannot
 ---
 
 1 § Laskennallisen kemian jaosto toimii Suomen Kemian Seuran alaisena ja sen nimi on Laskennallisen kemian jaosto (ruotsiksi Sektionen för datorstödd kemi, engl. Section for computational chemistry).

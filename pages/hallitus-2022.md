@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hallitus 2022
-permalink: /Hallitus/2022
+permalink: /hallitus/2022
 ---
 
 ### Puheenjohtaja
