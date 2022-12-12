@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gradu Palkinto
-permalink: /Gradu Palkinto/
+permalink: /Gradu-Palkinto
 ---
 
 Suomalaisten kemistien seuran Laskennallisen kemian jaosto palkitsee vuosittain suomalaista laskennallisen kemian tutkimusta hyvin edustavan maisteritasoisen opinnäytetyön (Pro Gradu -työ / diplomityö). Palkittavan työn valitsee Laskennallisen kemian jaoston hallitus.
@@ -23,3 +23,14 @@ Palkinto jaetaan joulukuussa Helsingissä pidettävässä Laskennallisen jaoston
 ## Seminaari
 
 Palkinnon voittajalle tarjotaan mahdollisuus pitää seminaariesitys Laskennallisen kemian jaoston seminaarisarjassa Pro Gradu- / diplomityöstään alkuvuonna 2023.
+
+
+## Aikaisemmat Palkinnot
+
+- [2020: Samu Kivistö (kunniamaininta Iris Sokka)]({{ site.baseurl }}{% link pages/gradu-palkinto/2020.md %})
+- [2019: Maisa Vuorte ]({{ site.baseurl }}{% link pages/gradu-palkinto/2019.md %})
+- [2018: Olli Ahlstedt (kunniamaininta Rasmus Kronberg)]({{ site.baseurl }}{% link pages/gradu-palkinto/2018.md %})
+- [2017: Tapio Peltomaa (kunniamaininta Outi Haapanen)]({{ site.baseurl }}{% link pages/gradu-palkinto/2017.md %})
+- [2016: Mira Ahinko (kunniamaininta Maria Dimitrova)]({{ site.baseurl }}{% link pages/gradu-palkinto/2016.md %})
+- [2015: Sampsa Vierros]({{ site.baseurl }}{% link pages/gradu-palkinto/2015.md %})
+- [2014: Elias Toivanen]({{ site.baseurl }}{% link pages/gradu-palkinto/2014.md %})
