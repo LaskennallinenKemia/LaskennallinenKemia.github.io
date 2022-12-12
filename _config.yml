@@ -21,12 +21,12 @@ author: Laskennallisen Kemian Jaoston Hallitus
 
 navbar-links:
   Tietoa: "tietoa"
-  Hallitus: "hallitus/2022"
+  Hallitus: "Hallitus/2022"
   Gradu Palkinto: "Gradu-Palkinto"
   Linkkejä:
     - Konferensseja: "conferences"
-  Jaoston Säännöt: "Jaoston-saannot"
-  Liity Jäseneksi: "Liity-Jaseneksi"
+  Jaoston Säännöt: "Jaoston-Saannot"
+  Liity Jäseneksi: "liity-jaseneksi"
 
 ################
 # --- Logo --- #
