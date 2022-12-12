@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
+title: Tietoa
+permalink: /tietoa
 ---
 
 Laskennallisen kemian jaosto on Suomalaisten kemistien seuran jaosto, joka kokoaa yhteen laskennallisen kemian tutkimusmenetelmien käyttäjät Suomessa. Laskennallisessa kemiassa molekyylien ja materiaalien rakenteita ja ominaisuuksia sekä kemiallisia ja fysikaalisia ilmiöitä tarkastellaan teoreettisin menetelmin tietokoneiden avulla. Jaosto on pääasiassa tutkimuspainotteinen.

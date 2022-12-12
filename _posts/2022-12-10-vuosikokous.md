@@ -2,7 +2,7 @@
 layout: post
 title:  "Vuosikokous 2022 ja Seminaari"
 date:   2022-12-10 22:32:41 -0800
-categories: vuosikokous
+tags: [vuosikokous, seminaari]
 ---
 
 Jaoston vuosikokous pidetään maanantaina 12. joulukuuta klo 9.30- 10.30. Kokous järjestetään Zoomissa.
